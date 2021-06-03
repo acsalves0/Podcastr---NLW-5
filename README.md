@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="Capa.png" />
+    <img alt="Podcastr" title="Podcastr" src="/Capa.png" />
 </h1>
 
 ## 🧪 Tecnologias
@@ -25,7 +25,7 @@ $ yarn
 
 # Comece o projeto
 $ yarn dev
-
+```
 ## 💻 Projeto
 
-Este é um projeto desenvolvido durante a Next Level Week, apresentado por Rocketseat durante 19 a 25 de abril de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 19 a 25 de abril de 2021.
