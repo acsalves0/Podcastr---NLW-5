@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="/Capa.png" />
+    <img alt="Podcastr" title="Podcastr" src="Capa.png" />
 </h1>
 
 ## 🧪 Tecnologias
