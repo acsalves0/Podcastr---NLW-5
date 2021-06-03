@@ -28,4 +28,4 @@ $ yarn dev
 
 ## 💻 Projeto
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 19 a 25 de abril de 2021.
+Este é um projeto desenvolvido durante a Next Level Week, apresentado por Rocketseat durante 19 a 25 de abril de 2021.
